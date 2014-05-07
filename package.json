@@ -1,0 +1,31 @@
+{
+  "name": "webcheck-middlewares",
+  "version": "0.0.0",
+  "description": "A collection of middlewares for the webcheck module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atd-schubert/webcheck-middlewares.git"
+  },
+  "keywords": [
+    "webcheck",
+    "analyzing",
+    "reporting",
+    "quality",
+    "management",
+    "code",
+    "quality"
+  ],
+  "author": "Arne Schubert <atd.schubert@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/atd-schubert/webcheck-middlewares/issues"
+  },
+  "dependencies": {
+    "mime": "~1.2.11",
+    "mkdirp": "~0.5.0"
+  }
+}
